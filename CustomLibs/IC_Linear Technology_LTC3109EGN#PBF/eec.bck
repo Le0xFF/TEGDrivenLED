@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC3109EGN#PBF
+D LTC3109EGN#PBF
+F http://cds.linear.com/docs/en/datasheet/3109fa.pdf
+$ENDCMP
+# end doc library

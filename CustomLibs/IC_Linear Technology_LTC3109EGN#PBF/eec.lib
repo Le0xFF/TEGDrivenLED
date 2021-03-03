@@ -1,0 +1,59 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LTC3109EGNPBF
+#
+DEF LTC3109EGNPBF U 0 40 Y Y 1 L N
+F0 "U" 0 200 50 H V L CNN
+F1 "LTC3109EGNPBF" 0 300 50 H V L CNN
+F2 "Linear_Technology-LTC3109EGNPBF-*" 0 400 50 H I L CNN
+F3 "http://cds.linear.com/docs/en/datasheet/3109fa.pdf" 0 500 50 H I L CNN
+F4 "Manufacturer URL" 0 600 50 H I L CNN "Component Link 1 Description"
+F5 "http://www.linear.com/" 0 700 50 H I L CNN "Component Link 1 URL"
+F6 "Package Specification" 0 800 50 H I L CNN "Component Link 3 Description"
+F7 "http://cds.linear.com/docs/en/packaging/05081641_B_GN20.pdf" 0 900 50 H I L CNN "Component Link 3 URL"
+F8 "Rev. A" 0 1000 50 H I L CNN "Datasheet Version"
+F9 "Thermoelectric" 0 1100 50 H I L CNN "Energy Source"
+F10 "Surface Mount" 0 1200 50 H I L CNN "Mounting Technology"
+F11 "3" 0 1300 50 H I L CNN "Number of Outputs"
+F12 "20-Pin Plastic SSOP, Body 8.649 x 3.899 mm, Pitch 0.635 mm" 0 1400 50 H I L CNN "Package Description"
+F13 "Rev. B, 03/2012" 0 1500 50 H I L CNN "Package Version"
+F14 "Boost" 0 1600 50 H I L CNN "Topology"
+F15 "0.5" 0 1700 50 H I L CNN "Vin MaxV"
+F16 "0.02" 0 1800 50 H I L CNN "Vin MinV"
+F17 "5" 0 1900 50 H I L CNN "Vout MaxV"
+F18 "IC" 0 2000 50 H I L CNN "category"
+F19 "979923" 0 2100 50 H I L CNN "ciiva ids"
+F20 "ffaf7e246f406f68" 0 2200 50 H I L CNN "library id"
+F21 "Linear Technology" 0 2300 50 H I L CNN "manufacturer"
+F22 "GN-20" 0 2400 50 H I L CNN "package"
+F23 "1377795154" 0 2500 50 H I L CNN "release date"
+F24 "Yes" 0 2600 50 H I L CNN "rohs"
+F25 "3B1D82F3-5361-4BB3-BCC3-40C9FF36CB9E" 0 2700 50 H I L CNN "vault revision"
+F26 "yes" 0 2800 50 H I L CNN "imported"
+DRAW
+S 200 100 1200 -1700 1 1 0 f
+X VS1 1 100 -150 100 R 40 40 1 1 U
+X GND 10 100 -1500 100 R 40 40 1 1 U
+X C1B 11 1300 -1500 100 L 40 40 1 1 U
+X C2B 12 1300 -1350 100 L 40 40 1 1 U
+X GND 13 1300 -1200 100 L 40 40 1 1 U
+X SWB 14 1300 -1050 100 L 40 40 1 1 U
+X VINB 15 1300 -900 100 L 40 40 1 1 U
+X VINA 16 1300 -750 100 L 40 40 1 1 U
+X SWA 17 1300 -600 100 L 40 40 1 1 U
+X GND 18 1300 -450 100 L 40 40 1 1 U
+X C2A 19 1300 -300 100 L 40 40 1 1 U
+X VS2 2 100 -300 100 R 40 40 1 1 U
+X C1A 20 1300 -150 100 L 40 40 1 1 U
+X VSTORE 3 100 -450 100 R 40 40 1 1 U
+X VAUX 4 100 -600 100 R 40 40 1 1 U
+X VOUT 5 100 -750 100 R 40 40 1 1 W
+X VOUT2 6 100 -900 100 R 40 40 1 1 U
+X VOUT2_EN 7 100 -1050 100 R 40 40 1 1 W
+X PGOOD 8 100 -1200 100 R 40 40 1 1 U
+X VLDO 9 100 -1350 100 R 40 40 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

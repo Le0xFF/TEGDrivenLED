@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name LTC3108)(type KiCad)(uri "${KIPRJMOD}/CustomLibs/IC_Linear Technology_LTC3108EDE#PBF/eec.pretty")(options "")(descr ""))
+  (lib (name XH414HG-IV01E)(type KiCad)(uri ${KIPRJMOD}/CustomLibs/XH414HG-IV01E)(options "")(descr ""))
+  (lib (name CM29-1)(type KiCad)(uri ${KIPRJMOD}/CustomLibs/CM29-1.9-04AC/CM29-1.pretty)(options "")(descr ""))
+  (lib (name LTC3109)(type KiCad)(uri "${KIPRJMOD}/CustomLibs/IC_Linear Technology_LTC3109EGN#PBF/eec.pretty")(options "")(descr ""))
+  (lib (name CAPCP3225X100N)(type KiCad)(uri ${KIPRJMOD}/CustomLibs/CAPCP3225X100N)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/CustomLibs/Coilcraft_LPR/footprints.pretty)(options "")(descr ""))
+  (lib (name CustomLibs)(type KiCad)(uri ${KIPRJMOD}/CustomLibs)(options "")(descr ""))
+)

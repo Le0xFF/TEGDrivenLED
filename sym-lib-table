@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name LTC3108)(type Legacy)(uri "${KIPRJMOD}/CustomLibs/IC_Linear Technology_LTC3108EDE#PBF/eec.lib")(options "")(descr ""))
+  (lib (name XH414HG-IV01E)(type Legacy)(uri ${KIPRJMOD}/CustomLibs/XH414HG-IV01E/XH414HG-IV01E.lib)(options "")(descr ""))
+  (lib (name LTC3109)(type Legacy)(uri "${KIPRJMOD}/CustomLibs/IC_Linear Technology_LTC3109EGN#PBF/eec.lib")(options "")(descr ""))
+  (lib (name LPR6235752SMLC)(type Legacy)(uri ${KIPRJMOD}/CustomLibs/Coilcraft_LPR/LPR6235752SMLC.lib)(options "")(descr ""))
+)
